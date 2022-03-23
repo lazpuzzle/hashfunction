@@ -1,0 +1,2 @@
+The first time to use function hash file in python
+it the one day you can understand it if you learn everyday
